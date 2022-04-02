@@ -1,2 +1,1 @@
-# kiscica
-A kiscica szemtelen, mert beugrik az ágyba.
+# Mindig beszökik, pedig nem szabad neki. Sosem javul meg.
